@@ -10,37 +10,32 @@ hash = "eb5a8056f197a6b75b9ec08da95e76f157b31c0351a674a52fe5488c3d30e981"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "69ead85064ef835b46fc1bdd97760727eac2be2b1e4d9597db5767b1a3075845"
+hash = "96d76a6543dcb3a6a9ac65f19323deb7af3b20ea6b6807acafd27ee6683db935"
 metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
+hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
+hash = "12e4a6fd87fb7b6e7fc5e4c298595a0b2514788b6bc8f9be30988a39dca25460"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "712a6727bfa75627d988b85fab626fe78a66e709c109269139f85d77e39c5f54"
+hash = "38b0568f23ae1f8e6138ef1c0f13b487103b345068c57b99723e4dfc5358a885"
 metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "26f1136d851da18ad1c5dea577706c3655fa90b69a99c51a141728e7fc1a7691"
-metafile = true
-
-[[files]]
-file = "mods/hurricane.pw.toml"
-hash = "7003c2ddbee055a08a01fc2292242d748cf8e6aaf3ccfd4fdb3d2fd59f5cff98"
+hash = "c26a7aadec9451a91676302980b284cf050ceb2ac7ff6d7ace68b9423d6beb9c"
 metafile = true
 
 [[files]]
@@ -50,45 +45,35 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9063468d0321798591d5e83044d7e841538b0a6ce8e38a78d415a2461708f45f"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "85549a8527681f0a07ff2835345f022d7293460797da66bc5af1f948ca1e44b3"
+hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
+hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
 metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
+hash = "163869d9b4f303a6cb17d410dd82f4f796bc3431f07a588c4435c7fbe4f6535d"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "3f2ce1c1eebbc21632b4cb111053585b61b377570676a7a0bbf5462cd1cb4c83"
+hash = "55cb0143330095f2132926ff85dd7264d627880e709bffea1bd1e03edc7eddbf"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
+hash = "16e02f523c718baefd9dd42b24bd1aeb7c1142ff0e46a512e958284158bd8461"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "c9ffa90c6e4445ac75b9f6d6bfcf93c054133d1cc71e7e42ec6ec789dce731d1"
+hash = "159cde8bf16f5c30487a711ef74b70183dfad0a4aaf5d3b041be499d5101d72c"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "dc382290106ff8657b408cdd44fc86268cba0de757708167e83e99f0cbcebb92"
+hash = "9906f7cbfd75ffd5ae8c1e19c874a1648647c2523fdcce50f64f2b8c08e29ae6"
 metafile = true
